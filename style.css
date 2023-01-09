@@ -200,7 +200,7 @@ footer .col{
     text-align: center;
 }
 #page-header{
-    background-image: url('../image/head.webp');
+    background-image: url('head.webp');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
