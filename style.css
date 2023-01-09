@@ -211,7 +211,11 @@ footer .col{
    padding: 80px 20px;
    color: white;
    font-weight: 20px;
-
+    background-image: url('head.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
     
 }
 .pagination{
