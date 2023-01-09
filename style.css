@@ -96,7 +96,7 @@ body {
 }
 
 #hero{
-    background-image: url('../image/Coffee_1.jpg');
+    background-image: url('Coffee_1.jpg');
     background-size:cover ;
     height: 90vh;
     width: 100%;
